@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jingchen Zhu (朱景琛)",
+    "section": "",
+    "text": "Welcome to my academic website.\nMy research lies at the intersection of organizational economics, behavioral economics, and political economy. I combine proprietary within-firm data, field experiments, and surveys to study digital transformation and AI adoption, particularly among firms in developing countries. I examine how digital and AI-enabled technologies affect firm performance and organizational outcomes, how they interact with traditional management practices, and what barriers firms face in adopting and effectively using them.\nA central part of my research is conducted in collaboration with firms across a range of industries. In a large manufacturing company, I studied how the digitalization of production processes and managerial task allocation can improve talent retention by reducing employee burnout. I also conducted a field experiment at a construction company to examine how giving workers greater voice affects conformity. My current work with a large livestock company investigates how the introduction of AI into production processes shapes organizational attention and responsiveness.\nA new strand of my research extends this firm-centered approach to questions in international trade and political economy. I have recently started some new projects studying how firms adapt their international operations and market strategies to an increasingly fragmented global environment."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Jingchen Zhu (朱景琛)",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nResearch interest 1\nResearch interest 2\nResearch interest 3"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Jingchen Zhu (朱景琛)",
+    "section": "Contact",
+    "text": "Contact\nPKU Email: zhujingchen@stu.pku.edu.cn\nPersonal Email: jzhu6314@gmail.com"
+  }
+]
