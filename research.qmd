@@ -1,0 +1,95 @@
+
+## Job Market Paper
+
+::: {.research-paper}
+
+### Managerial Allocation Skill and the Value of Digital Monitoring
+
+Yuyu Chen, Miguel Espinosa, Shuo Liu, and **Jingchen Zhu**
+
+Presented on *SMS 46th Annual Conference*:
+
+**Strategic Human Capital IG&C Best Paper**
+
+**Honorable Mention for Conference Best Paper Award**
+    
+submitted to *the Strategic Management Journal*
+
+[Paper](files/DMT_wp_2607.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+[Slides](files/Burnout_SMS_Berlin_261020.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+
+<details>
+<summary>Abstract</summary>
+
+Digital monitoring gives managers richer information, but its value depends on how managers deploy human capital. Using the staggered rollout of a tracking system in a large manufacturer, we show that monitoring raises total output by expanding span of control but does not improve average worker productivity. Productivity gains appear in teams led by managers with stronger task-allocation skill, who use the new information to deploy and retain high-performing workers more effectively. Monitoring therefore increases the returns to managerial resource-orchestration capability rather than substituting for it.
+
+</details>
+
+:::
+
+## Working Papers
+
+::: {.research-paper}
+
+### Role-differentiated Learning within Organizations
+
+Yuyu Chen, Miguel Espinosa, Yu Wang, Xinjue Yao, and **Jingchen Zhu**
+
+*Revise and Resubmit* at *the Strategic Management Journal*
+
+[Paper](files/diff_learning_2609.pdf){.btn .btn-sm .btn-outline-primary target="_blank"}
+
+<details>
+<summary>Abstract</summary>
+
+Existing research has yet to reveal how learning is divided among members within organizational units. We develop a role-differentiated framework of learning in production teams, in which workers and managers develop distinct learning trajectories. Using detailed task-level records covering 79,639 products at a Chinese electrical-equipment manufacturer, we test the predictions of our framework. We find that workers' experience significantly improves execution performance, whereas managers' experience significantly improves coordination performance. Managers’ learning in coordination becomes stronger when they actively coordinate production by reordering tasks and reallocating workers. Worker and manager experience are also complementary, as accumulated worker experience strengthens managers' ability to translate their own experience into shorter waiting time.
+
+</details>
+
+:::
+
+## Work in Progress
+
+::: {.research-paper}
+
+### Attention by Algorithm: AI Screening, Accountability, and Expert Discretion
+
+Yuyu Chen and **Jingchen Zhu**
+
+We study the adoption of an AI-based disease-alert system at a large dairy producer. Using detailed cow-level diagnosis, treatment, and milking records, we examine how algorithmic screening reallocates veterinary teams’ attention and how this reallocation shapes the technology’s productivity effects. In particular, we find that AI alerts alter veterinarians’ incentives by making some cases more visible and their responses more accountable. Under capacity constraints, this heightened accountability can distort attention toward algorithmically flagged cases and crowd out veterinarians’ professional judgment.
+
+:::
+
+::: {.research-paper}
+
+### Consumer Resources and Relational Contract: Evidence from a Livestreaming Platform
+
+Yuyu Chen, Bo Hu, Qingxu Yang and **Jingchen Zhu**
+
+This project studies how livestreaming agencies govern valuable consumer relationships when creators can move across organizations. Using proprietary data from a large international livestreaming platform, we track streaming activity, user viewing and spending, and changes in creator–agency affiliations. We examine whether audiences belong primarily to creators or agencies, whether agencies reduce customer losses by connecting valuable users to multiple creators, and whether access to agency-linked consumers serves as an informal incentive that rewards creator effort and encourages retention.
+
+:::
+
+
+::: {.research-paper}
+
+### Worker Voice and Technology Adoption
+
+Jing Cai, Yuyu Chen, and **Jingchen Zhu**
+
+We conducted a field experiment with reinforcing steel workers across 11 projects operated by a construction company. Although adherence to quality standards is critical in the construction industry, worker compliance was limited. Neither monetary incentives nor informational interventions improved compliance. However, when workers were allowed to vote on the quality requirements that their own teams would be expected to meet, their quality performance improved significantly.
+
+:::
+
+
+::: {.research-paper}
+
+### The Transmission of Bias: Evidence from Foreign Mining in Africa
+
+Dingxi Yan, Qingxu Yang, and **Jingchen Zhu**
+
+
+
+:::
+
+

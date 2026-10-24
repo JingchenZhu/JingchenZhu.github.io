@@ -1,36 +1,32 @@
 ---
 title: "Jingchen Zhu (朱景琛)"
-subtitle: "PhD Candidate | Guanghua School of Management, Peking University"
+subtitle: |
+  PhD Candidate<br>
+  Guanghua School of Management<br>
+  Peking University<br><br>
+  [Download CV](files/CV_Academia_261018.pdf){target="_blank"}
+  
+  <span class="contact-info">
+  <strong>Contact</strong><br>
+  PKU Email: zhujingchen@stu.pku.edu.cn<br>
+  Personal Email: jzhu6314@gmail.com
+  Tel: +86 15901080562
+  </span>
 image: images/headshot2.jpg
 about:
-  template: jolla
+  template: trestles
   image-shape: round
   image-width: 220px
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:zhujingchen@stu.pku.edu.cn
-    - icon: github
-      text: GitHub
-      href: https://github.com/JingchenZhu
 ---
-Welcome to my academic website.
+
+I am a PhD student in Economics from Guanghua School of Management, Peking University. I used to visit Harvard Center for International Development (HCID) in 2025 Fall semester. **I am on the 2026–2027 academic job market.**
 
 My research lies at the intersection of **organizational economics, behavioral economics, and political economy**. I combine proprietary **within-firm data, field experiments, and surveys** to study digital transformation and AI adoption, particularly among firms in developing countries. I examine how digital and AI-enabled technologies affect firm performance and organizational outcomes, how they interact with traditional management practices, and what barriers firms face in adopting and effectively using them.
 
-**A central part of my research is conducted in collaboration with firms across a range of industries.** In a large manufacturing company, I studied how the digitalization of production processes and managerial task allocation can improve talent retention by reducing employee burnout. I also conducted a field experiment at a construction company to examine how giving workers greater voice affects conformity. My current work with a large livestock company investigates how the introduction of AI into production processes shapes organizational attention and responsiveness.
+**A central part of my research is conducted in collaboration with firms across a range of industries.** So far, I have conducted research projects partnered with construction firms, manufacturing firms, diary farms, and online entertaining platforms.
 
 A new strand of my research extends this firm-centered approach to questions in international trade and political economy. I have recently started some new projects studying how firms adapt their international operations and market strategies to an increasingly fragmented global environment.
 
+## Current Research Fields
 
-## Research Interests
-
-- Research interest 1
-- Research interest 2
-- Research interest 3
-
-## Contact
-
-PKU Email: [zhujingchen@stu.pku.edu.cn](mailto:zhujingchen@stu.pku.edu.cn)
-
-Personal Email: [jzhu6314@gmail.com](mailto:jzhu6314@gmail.com)
+- Organizational Economics, behavioral economics, and political economics

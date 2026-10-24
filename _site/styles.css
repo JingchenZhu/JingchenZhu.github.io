@@ -1,1 +1,95 @@
 /* css styles */
+
+body {
+  line-height: 1.7;
+}
+
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.about-link {
+  border-radius: 6px !important;
+}
+
+/* Wider center column on large screens */
+@media (min-width: 1200px) {
+  #quarto-content.page-columns {
+    grid-template-columns:
+      [screen-start] 1rem
+      [screen-start-inset] 1fr
+      [page-start page-start-inset] 20px
+      [body-start-outset] 20px
+      [body-start] 1rem
+      [body-content-start] minmax(650px, 1050px)
+      [body-content-end] 1rem
+      [body-end] 20px
+      [body-end-outset] minmax(100px, 150px)
+      [page-end-inset] 20px
+      [page-end] 1fr
+      [screen-end-inset] 1rem
+      [screen-end];
+  }
+
+  /* Left profile column: default is 42% */
+  div.quarto-about-trestles .about-entity {
+    flex: 0 0 32%;
+    padding-right: 1.25rem;
+  }
+
+  /* Give the main text comfortable spacing */
+  div.quarto-about-trestles .about-contents {
+    padding-left: 2rem;
+  }
+
+  /* Prevent the name from wrapping awkwardly */
+  div.quarto-about-trestles .about-entity h1.title {
+    font-size: 2.1rem;
+    white-space: nowrap;
+  }
+
+  /* Slightly smaller right-side contents */
+  #quarto-margin-sidebar {
+    font-size: 0.9rem;
+  }
+}
+
+/* Research page */
+.research-paper {
+  margin: 1.25rem 0 2.25rem;
+  padding: 1.4rem 1.5rem;
+  border-left: 3px solid var(--bs-primary);
+  border-radius: 6px;
+  background-color: var(--bs-tertiary-bg);
+}
+
+.research-paper h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+.research-paper .btn {
+  margin-top: 0.5rem;
+  margin-right: 0.4rem;
+  margin-bottom: 0.5rem;
+  text-decoration: none;
+}
+
+.research-paper details {
+  margin-top: 1rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--bs-border-color);
+}
+
+.research-paper summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--bs-link-color);
+}
+
+.research-paper details p:last-child {
+  margin-bottom: 0;
+}
