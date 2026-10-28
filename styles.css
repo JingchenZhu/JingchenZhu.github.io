@@ -93,3 +93,22 @@ h2 {
 .research-paper details p:last-child {
   margin-bottom: 0;
 }
+
+/* Keep the portrait frame unchanged, but zoom in on the person */
+div.quarto-about-trestles .about-entity > img.about-image {
+  display: none;
+}
+
+div.quarto-about-trestles .about-entity::before {
+  content: "";
+  display: block;
+  width: 220px;
+  height: 220px;
+  margin: 0 auto 1.5em;
+  border-radius: 50%;
+
+  background-image: url("images/headshot3.jpg");
+  background-repeat: no-repeat;
+  background-size: 140% auto;
+  background-position: 50% 30%;
+}
