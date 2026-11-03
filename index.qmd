@@ -12,7 +12,7 @@ subtitle: |
   Personal Email: jzhu6314@gmail.com
   Tel: +86 15901080562
   </span>
-image: images/headshot2.jpg
+image: images/headshot4.jpg
 about:
   template: trestles
   image-shape: round
